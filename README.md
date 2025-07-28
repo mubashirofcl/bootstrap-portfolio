@@ -13,12 +13,12 @@
 ## 📌 Project Overview
 
 This is a **responsive personal portfolio website** designed to showcase my skills, services, and projects as a web developer.  
-It was built using **HTML5, CSS3, Bootstrap**, and **jQuery plugins** to enhance the user experience.
+It was built using **HTML5, CSS3, and Bootstrap**, to enhance the user experience.
 
 Main sections included:
 
 - About Me  
-- Services Offered  
+- Services Offered and skills 
 - My Work (Project Gallery)  
 - Contact Form  
 
@@ -29,17 +29,14 @@ Main sections included:
 - ✅ **HTML5** – Semantic structure  
 - ✅ **CSS3** – Custom styling  
 - ✅ **Bootstrap 5** – For responsive layout  
-- ✅ **jQuery** – For interactivity  
-- ✅ **Owl Carousel** – Project slider  
-- ✅ **Magnific Popup** – Image modals  
+- ✅ **jQuery** – For interactivity   
 
 ---
 
 ## 💡 Key Features
 
 - 🎯 **Responsive design** – Works on all devices  
-- 🧩 **Animated carousels** – Smooth project display  
-- 🖼️ **Image lightbox** – Click to view full-size images  
+- 🧩 **Animated carousels** – Smooth project display    
 - 📬 **Working contact form UI** – Styled and ready for integration  
 - 🧑‍💼 Clean layout with **modern fonts and colors**
 
